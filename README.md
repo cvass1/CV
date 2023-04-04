@@ -6,7 +6,7 @@ After a sucessful 10 year carear in finance I am looking to pivot towards a more
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Spotify API**              | Application to return song suggestions/song lists based on a specific songID or artistIDs given              | Python                |
+| **Spotify API**              | An application to return song suggestions based on a specific songIDs or artistIDs  | Python   |
 |                              |                   |                   |
 |                              |                   |                   |
 
@@ -16,7 +16,13 @@ After a sucessful 10 year carear in finance I am looking to pivot towards a more
 #### Makers Academy (MAR 2023 to JUL 2023)
 
 
-#### Code First Girls ()
+#### Code First Girls (MAY 2022 to MAR 2023)
+
+- SQL & Data - 8 week beginner kickstarter
+- Python & Apps - 8 week beginner kickstarter
+- Intro to Web Development - 4 week MOOC
+- Intro to Machine Learning using Python and Jupyter notebook - 4 week MOOC
+- Intro to GIT and GITHUB - 4 week MOOC
 
 
 #### CFA Institute (DEC 2013 to JUN 2015)
