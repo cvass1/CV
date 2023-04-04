@@ -1,13 +1,49 @@
 ## Caroline Evans
+After a sucessful 10 year carear in finance I am looking to pivot towards a more technical and analytical role where I can utilise my STEM background and problem solving skills.
 
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **.**                        |                   |                   |
+| **Spotify API**              | Application to return song suggestions/song lists based on a specific songID or artistIDs given              | Python                |
 |                              |                   |                   |
 |                              |                   |                   |
+
+
+## Education
+
+#### Makers Academy (MAR 2023 to JUL 2023)
+
+
+#### Code First Girls ()
+
+
+#### CFA Institute (DEC 2013 to JUN 2015)
+
+- Passed all three levels of the CFA Program
+
+
+#### University of Bristol (OCT 2008 to JUL 2012)
+
+- MSci Physics with First Class Honours
+- Recieved the Dean’s Letter of Commendation for Academic Performance in 2010 and 2011
+
+
+#### Wilmington Grammar School for Girls (SEP 2001 to JUN 2008)
+
+- A levels: Mathematics (A), Physics (A), Biology (A), Chemistry (B) 	     
+- GCSE levels: 10 GCSE’s (5 A* grades, 5 A grades)
+- Awarded the following for achiving the highest grades in the school:
+    * A2 level Mathematics Prize and A2 level Physics Prize, 2008
+    * The Wellcome Mendelson Prize (achievement in A level Science), 2008
+    * AS level Mathematics Prize and AS level Physics Prize, 2007
+    * GCSE Mathematics Prize and GCSE Science Prize, 2006
+
+
+
+## Skills
+
 
 ## Work Experience
 
@@ -48,40 +84,9 @@ _Summer Analyst -  Fixed Income Sales and Trading_
 - Composed tailored lists of fixed income products for clients of the sales team
 
 
-
-## Skills
-
-
-
-
-
-
-## Education
-
-#### Makers Academy (MAR 2023 to JUL 2023)
-
-
-#### CFA Institute (DEC 2013 to JUN 2015)
-
-- Passed all three levels of the CFA Program
-
-
-#### University of Bristol (OCT 2008 to JUL 2012)
-
-- MSci Physics with First Class Honours
-- Recieved the Dean’s Letter of Commendation for Academic Performance in 2010 and 2011
-
-#### Wilmington Grammar School for Girls (SEP 2001 to JUN 2008)
-
-- A levels: Mathematics (A), Physics (A), Biology (A), Chemistry (B) 	     
-- GCSE levels: 10 GCSE’s (5 A* grades, 5 A grades)
-- Awarded the following for achiving the highest grades in the school:
-    * A2 level Mathematics Prize and A2 level Physics Prize, 2008
-    * The Wellcome Mendelson Prize (achievement in A level Science), 2008
-    * AS level Mathematics Prize and AS level Physics Prize, 2007
-    * GCSE Mathematics Prize and GCSE Science Prize, 2006
-
-
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+_Travel_
+- In 2007 I took a 10 month sabbatical to travel to 20 countries across 5 continents
+- I enjoy meeting new people and learning about other cultures
+
