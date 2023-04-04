@@ -1,5 +1,4 @@
 ## Caroline Evans
-After a sucessful 10 year carear in finance I am looking to pivot towards a more technical and analytical role where I can utilise my STEM background and problem solving skills.
 
 
 ## Projects
@@ -54,40 +53,8 @@ After a sucessful 10 year carear in finance I am looking to pivot towards a more
 ## Work Experience
 
 **Royal Bank of Canada** (AUG 2013 to MAR 2023)  
-_Associate Director - Funding and Liquidity Management (Feb 22 - Mar 23)_
+_Associate Director - Funding and Liquidity Management_
 
-- Cash and Liquidity management activities for multiple European legal entities
-- Active balance sheet management via FX forwards, interest rate swaps, reverse repo, deposits and CD & EMTM issuance
-- Intra-group funding and transfer-price setting
-
-_Associate Director - HQLA Portfolio Management (Dec 16 - Mar 17, Jan 18 - Feb 22)_
-- Responsible for the GBP and EUR HQLA securities investments across SSAs, Covered Bonds and HQLA-eligible RMBS for the global TMS Asset Portfolio
-
-_Associate - HQLA Portfolio Management (Dec 15 - Dec 16)_
-- Active management of the European entities’ HQLA portfolios
-- In-depth credit analysis of issuers, covered bond pools and RMBS collateral
-
-_Analyst - HQLA Portfolio Management (Aug 13 - Dec 15)_
-- Supporting the management of the global TMS Asset Portfolio
-- Building analytical tools for efficient risk management, relative value and P&L monitoring
-
-**Graduate Programme - Royal Bank of Canada** (JUL 2012 to AUG 2013)  
-_Analyst - Rates Trading_
-
-- Completed a four-month rotation on sixteen desks across Capital Markets
-- Gained a permanent position in Rates Trading with a focus on Inflation cash and derivatives
-
-**Internship - Royal Bank of Canada** (JUL to AUG 2011)  
-_Summer Analyst - Debt Capital Markets EMTNs_
-
-- Introduced to a wide range of structured and vanilla issuance types
-- Collated clients’ funding levels and distributed internally via an internal Bloomberg page for private placements
-
-**Internship - Royal Bank of Canada** (JUL to AUG 2009)  
-_Summer Analyst -  Fixed Income Sales and Trading_
-
-- Shadowed bond traders, analysed various methods of pricing and hedging
-- Composed tailored lists of fixed income products for clients of the sales team
 
 
 ## Hobbies
