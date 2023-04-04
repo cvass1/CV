@@ -39,7 +39,7 @@
 
 - A levels: Mathematics (A), Physics (A), Biology (A), Chemistry (B) 	     
 - GCSE levels: 10 GCSE’s (5 A* grades, 5 A grades)
-- Awarded the following for achiving the highest grades in the school:
+- Awards for achiving the highest grades in the school:
     * A2 level Mathematics Prize and A2 level Physics Prize, 2008
     * The Wellcome Mendelson Prize (achievement in A level Science), 2008
     * AS level Mathematics Prize and AS level Physics Prize, 2007
@@ -60,6 +60,6 @@ _Associate Director - Funding and Liquidity Management_
 ## Hobbies
 
 _Travel_
-- In 2007 I took a 10 month sabbatical to travel to 20 countries across 5 continents
+- In 2017 I took a 10 month sabbatical to travel to 20 countries across 5 continents
 - I enjoy meeting new people and learning about other cultures
 
