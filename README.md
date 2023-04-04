@@ -1,6 +1,8 @@
-## Caroline Evans (Vassallo)
+## Caroline Evans
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+(A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.)
+
+
 
 ## Projects
 
@@ -11,8 +13,8 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Royal Bank of Canada** (AUG 2013 to MAR 2023)  
+_Associate Director - Funding and Liquidity Management_
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
