@@ -13,7 +13,7 @@
 ## Education
 
 #### Makers Academy (MAR 2023 to JUL 2023)
-
+- 
 
 #### Code First Girls (MAY 2022 to MAR 2023)
 
@@ -52,7 +52,7 @@
 
 ## Work Experience
 
-**Royal Bank of Canada** (AUG 2013 to MAR 2023)  
+**Royal Bank of Canada** (JUN 2012 to MAR 2023)  
 _Associate Director - Funding and Liquidity Management_
 
 
