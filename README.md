@@ -26,7 +26,7 @@ _Associate Director - Funding and Liquidity Management_
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (MAR 2023 to JUL 2023)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -35,15 +35,29 @@ _Associate Director - Funding and Liquidity Management_
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### CFA Institute (DEC 2013 to JUN 2015)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Passed all three levels of the CFA Program
 
-#### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+#### University of Bristol (OCT 2008 to JUL 2012)
+
+- MSci Physics with First Class Honours
+- Recieved the Dean’s Letter of Commendation for Academic Performance in 2010 and 2011
+
+#### Wilmington Grammar School for Girls (SEP 2001 to JUN 2008)
+
+- A levels: Mathematics (A), Physics (A), Biology (A), Chemistry (B) 	     
+- GCSE levels: 10 GCSE’s (5 A* grades, 5 A grades)
+- Awarded the following for academic performance:
+    * A2 level Mathematics Prize and A2 level Physics Prize
+    * The Wellcome Mendelson Prize (achievement in A level Science)
+    * AS level Mathematics Prize and AS level Physics Prize
+    * GCSE Mathematics Prize and GCSE Science Prize              
+
+
+
+
 
 ## Hobbies
 
