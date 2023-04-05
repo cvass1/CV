@@ -1,15 +1,6 @@
 ## Caroline Evans
 
 
-## Projects
-
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Spotify API**              | An application to return song suggestions based on a specific songIDs or artistIDs  | Python   |
-|                              |                   |                   |
-|                              |                   |                   |
-
-
 ## Education
 
 #### Makers Academy (MAR 2023 to JUL 2023)
@@ -32,7 +23,7 @@
 #### University of Bristol (OCT 2008 to JUL 2012)
 
 - MSci Physics with First Class Honours
-- Final year masters thesis on Muon Scattering Tomography involved running computer simulations of a real-world experimental set-up using C++ and GEANT4 software toolkit
+- Final year masters thesis on Muon Scattering Tomography which involved running computer simulations of a real-world experimental set-up using C++ and GEANT4 software toolkit
 - Received the Dean’s Letter of Commendation for Academic Performance in 2010 and 2011
 
 
@@ -61,10 +52,18 @@ _Associate Director - Funding and Liquidity Management_
 - In-depth credit analysis of issuers, covered bond pools and RMBS collateral
 - Building analytical tools for efficient risk management, relative value and P&L monitoring
 
+## Projects
+
+| Name                         | Description       | Tech/tools        |
+| ---------------------------- | ----------------- | ----------------- |
+| **Spotify API**              | An application to return song suggestions based on a specific songIDs or artistIDs  | Python   |
+|                              |                   |                   |
+|                              |                   |                   |
+
+
+
 
 ## Hobbies
 
-_Travel_
-- In 2017 I took a 10 month sabbatical to travel to 20 countries across 5 continents
-- I enjoy meeting new people and learning about other cultures
+I love to travel! In 2017, I took a 10 month sabbatical to travel to 20 countries across 5 continents and every year since I've tried to go to somewhere new. I enjoy meeting new people, learning about other cultures and tasting all the exciting food.
 
