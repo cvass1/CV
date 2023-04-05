@@ -26,20 +26,21 @@
 
 #### CFA Institute (DEC 2013 to JUN 2015)
 
-- Passed all three levels of the CFA Program
+- Passed all three levels of the Charted Financial Analyst (CFA) Program
 
 
 #### University of Bristol (OCT 2008 to JUL 2012)
 
 - MSci Physics with First Class Honours
-- Recieved the Dean’s Letter of Commendation for Academic Performance in 2010 and 2011
+- Final year masters thesis on Muon Scattering Tomography involved running computer simulations of a real-world experimental set-up using C++ and GEANT4 software toolkit
+- Received the Dean’s Letter of Commendation for Academic Performance in 2010 and 2011
 
 
 #### Wilmington Grammar School for Girls (SEP 2001 to JUN 2008)
 
 - A levels: Mathematics (A), Physics (A), Biology (A), Chemistry (B) 	     
 - GCSE levels: 10 GCSE’s (5 A* grades, 5 A grades)
-- Awards for achiving the highest grades in the school:
+- Awards for academic performance:
     * A2 level Mathematics Prize and A2 level Physics Prize, 2008
     * The Wellcome Mendelson Prize (achievement in A level Science), 2008
     * AS level Mathematics Prize and AS level Physics Prize, 2007
@@ -54,7 +55,11 @@
 
 **Royal Bank of Canada** (JUN 2012 to MAR 2023)  
 _Associate Director - Funding and Liquidity Management_
-
+- Active balance sheet management via FX forwards, interest rate swaps, reverse repo, deposits and CD & EMTM issuance
+- Intra-group funding and transfer-price setting
+- Responsible for the GBP and EUR HQLA securities investments across SSAs, Covered Bonds and HQLA-eligible RMBS for the global TMS Asset Portfolio
+- In-depth credit analysis of issuers, covered bond pools and RMBS collateral
+- Building analytical tools for efficient risk management, relative value and P&L monitoring
 
 
 ## Hobbies
