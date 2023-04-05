@@ -4,7 +4,7 @@
 ## Education
 
 #### Makers Academy (MAR 2023 to JUL 2023)
-- 
+- Highly selective, 16 week, full-time Software Development course 
 
 #### Code First Girls (MAY 2022 to MAR 2023)
 
@@ -17,8 +17,7 @@
 
 #### CFA Institute (DEC 2013 to JUN 2015)
 
-- Passed all three levels of the Charted Financial Analyst (CFA) Program
-
+- Passed all three levels of the Charted Financial Analyst (CFA) Program, a rigorous and comprehensive study program in the investment management and research industry
 
 #### University of Bristol (OCT 2008 to JUL 2012)
 
@@ -38,10 +37,6 @@
     * GCSE Mathematics Prize and GCSE Science Prize, 2006
 
 
-
-## Skills
-
-
 ## Work Experience
 
 **Royal Bank of Canada** (JUN 2012 to MAR 2023)  
@@ -52,6 +47,20 @@ _Associate Director - Funding and Liquidity Management_
 - In-depth credit analysis of issuers, covered bond pools and RMBS collateral
 - Building analytical tools for efficient risk management, relative value and P&L monitoring
 
+
+## Skills
+
+#### Analytics & Problem Solving
+I have a strong analytical skill set which I gained from my scientific studies and developed throughout my career building analytical tools, monitoring financial market data and using unique insights to make decisions on strategies and risks.
+
+#### Communication & Team Work
+During my career I have developed strong communication skills through daily interactions with management and other internal stakeholders to convey risk metrics, market conditions and strategic views in a timely and accurate manner. I have also developed strong team working skills, particularly having worked for a multinational company where I've needed to be organised and flexible to communicate and collaborate with members of my team globally.
+
+#### Resilience & Work Ethic
+I enjoy being challenged and have built up resilience and a strong work ethic from working extended hours under high pressure to solve problems and execute strategies as quickly and successfully as possible.
+
+
+
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
@@ -59,7 +68,6 @@ _Associate Director - Funding and Liquidity Management_
 | **Spotify API**              | An application to return song suggestions based on a specific songIDs or artistIDs  | Python   |
 |                              |                   |                   |
 |                              |                   |                   |
-
 
 
 
