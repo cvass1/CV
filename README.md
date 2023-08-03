@@ -6,9 +6,9 @@ A junior software developer with a strong passion for solving problems with effi
 
 | Name                                                                           | Description                                                                                                                                           | Tech/tools                                                |
 | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| **[Whatever the Weather]("https://github.com/lplclaremont/ep3-raining-mern")** | A holiday itinerary web application that generates activity recommendations based on a live daily weather forecast using OpenWeather API              | Express, React, Node, NodeMailer                          |
-| **[Acebook]("https://github.com/ev-th/acebook-fire")**                         | A social media site based on Facebook. Features include login authentication using JWT tokens, commenting and liking posts, uploading profile photos. | MERN stack (MongoDB, Express, React, Node), Jest, Cypress |
-| **[RuBnB]("https://github.com/michael-szczepanski/ruBnB")**                    | A holiday lets platform based on AirBnB with features including password encrytion, space listing and booking management                              | Ruby, Sinatra, SQL, Rspec, HTML & CSS                     |
+| [**Whatever the Weather**]("https://github.com/lplclaremont/ep3-raining-mern") | A holiday itinerary web application that generates activity recommendations based on a live daily weather forecast using OpenWeather API              | Express, React, Node, NodeMailer                          |
+| [**Acebook**]("https://github.com/ev-th/acebook-fire")                         | A social media site based on Facebook. Features include login authentication using JWT tokens, commenting and liking posts, uploading profile photos. | MERN stack (MongoDB, Express, React, Node), Jest, Cypress |
+| [**RuBnB**]("https://github.com/michael-szczepanski/ruBnB")                    | A holiday lets platform based on AirBnB with features including password encryption, space listing and booking management                             | Ruby, Sinatra, SQL, Rspec, HTML & CSS                     |
 
 ## Education
 
