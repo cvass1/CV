@@ -1,4 +1,4 @@
-## Caroline Evans
+## Caroline Evans (Vassallo)
 
 A junior software developer with a strong passion for solving problems with efficient and elegant code. Ten years of experience in the financial services industry, skilled in delivering on targets in a fast-paced, high-pressure environment. Recently completed the Makers Academy bootcamp, acquiring essential coding practices such as Test-Driven Development, version control, and Agile workflow.
 
@@ -65,11 +65,13 @@ I enjoy being challenged and have built up resilience and a strong work ethic fr
 
 ## Projects
 
-| Name            | Description                                                                        | Tech/tools |
-| --------------- | ---------------------------------------------------------------------------------- | ---------- |
-| **Spotify API** | An application to return song suggestions based on a specific songIDs or artistIDs | Python     |
-|                 |                                                                                    |            |
-|                 |                                                                                    |            |
+| Name                     | Description                                                                                                                                           | Tech/tools                                 |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| **Spotify API**          | An application to return song suggestions based on a specific songIDs or artistIDs                                                                    | Python                                     |
+| **Whatever the Weather** | A holiday itinerary web application that generates activity recommendations based on a live daily weather forecast using OpenWeather API              | Express, React, Node, NodeMailer           |
+| **Acebook**              | A social media site based on Facebook. Features include login authentication using JWT tokens, commenting and liking posts, uploading profile photos. | MERN stack (MongoDB, Express, React, Node) |
+| Jest, Cypress            |
+| **RuBnB**                | A holiday lets platform based on AirBnB with features including password encrytion, space listing and booking management                              | Ruby, Sinatra, SQL, Rspec, HTML & CSS      |
 
 ## Hobbies
 
