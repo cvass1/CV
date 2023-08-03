@@ -2,6 +2,14 @@
 
 A junior software developer with a strong passion for solving problems with efficient and elegant code. Ten years of experience in the financial services industry, skilled in delivering on targets in a fast-paced, high-pressure environment. Recently completed the Makers Academy bootcamp, acquiring essential coding practices such as Test-Driven Development, version control, and Agile workflow.
 
+## Projects
+
+| Name                     | Description                                                                                                                                           | Tech/tools                                                |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+| **Whatever the Weather** | A holiday itinerary web application that generates activity recommendations based on a live daily weather forecast using OpenWeather API              | Express, React, Node, NodeMailer                          |
+| **Acebook**              | A social media site based on Facebook. Features include login authentication using JWT tokens, commenting and liking posts, uploading profile photos. | MERN stack (MongoDB, Express, React, Node), Jest, Cypress |
+| **RuBnB**                | A holiday lets platform based on AirBnB with features including password encrytion, space listing and booking management                              | Ruby, Sinatra, SQL, Rspec, HTML & CSS                     |
+
 ## Education
 
 #### Makers Academy (MAR 2023 to JUL 2023)
@@ -63,16 +71,6 @@ During my career I have developed strong communication skills through daily inte
 
 I enjoy being challenged and have built up resilience and a strong work ethic from working extended hours under high pressure to solve problems and execute strategies as quickly and successfully as possible.
 
-## Projects
-
-| Name                     | Description                                                                                                                                           | Tech/tools                                 |
-| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
-| **Spotify API**          | An application to return song suggestions based on a specific songIDs or artistIDs                                                                    | Python                                     |
-| **Whatever the Weather** | A holiday itinerary web application that generates activity recommendations based on a live daily weather forecast using OpenWeather API              | Express, React, Node, NodeMailer           |
-| **Acebook**              | A social media site based on Facebook. Features include login authentication using JWT tokens, commenting and liking posts, uploading profile photos. | MERN stack (MongoDB, Express, React, Node) |
-| Jest, Cypress            |
-| **RuBnB**                | A holiday lets platform based on AirBnB with features including password encrytion, space listing and booking management                              | Ruby, Sinatra, SQL, Rspec, HTML & CSS      |
-
 ## Hobbies
 
-I love to travel! In 2017, I took a 10 month sabbatical to travel to 20 countries across 5 continents and every year since I've tried to go to somewhere new. I enjoy meeting new people, learning about other cultures and tasting all the exciting food.
+I love to travel! In 2017, I took a 10 month sabbatical to travel to 20 countries across 5 continents and every year since I've tried to go to somewhere new. I enjoy meeting new people, learning about other cultures, tasting all the exciting food and exploring new places.
