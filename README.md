@@ -14,7 +14,7 @@ A junior software developer with a passion for solving problems with efficient a
 
 #### Software Development Intensive Course - Makers Academy (MAR 2023 to JUL 2023)
 
-Engaged in an intensive and highly selective 16-week full-time software development course at Makers Academy, renowned for its rigorous, industry-focused curriculum and emphasis on Emotional Intelligence (EQ) development in a technical environment. Developed full-stack applications using a comprehensive array of technologies and frameworks, including JavaScript, Express, React, Node, MongoDB, Jest, Cypress, Ruby, Sinatra, PostgreSQL, and RSpec and demonstrated proficiency in Object-Oriented Programming (OOP), Test-Driven Development (TDD) and version control using GIT and GITHUB. Collaborated effectively in team environments to deliver projects using agile methodologies incorporating stand-ups, planning sessions, sprints, pair-programming and retrospectives to enhance teamwork and clear communication.
+Engaged in an intensive and highly selective 16-week full-time software development course at Makers Academy, renowned for its rigorous curriculum and emphasis on Emotional Intelligence (EQ) development in a technical environment. Developed full-stack applications using a comprehensive array of technologies and frameworks, including JavaScript, Express, React, Node, MongoDB, Jest, Cypress, Ruby, Sinatra, PostgreSQL, and RSpec and demonstrated proficiency in Object-Oriented Programming (OOP), Test-Driven Development (TDD) and version control using GIT and GITHUB. Collaborated effectively in team environments to deliver projects using agile methodologies incorporating stand-ups, planning sessions, sprints, pair-programming and retrospectives to enhance teamwork and clear communication.
 
 #### Coding Kickstarter and MOOC Courses - Code First Girls (MAY 2022 to MAR 2023)
 
@@ -32,11 +32,13 @@ Final year masters thesis on Muon Scattering Tomography involved programming sim
 
 #### Associate Director, Funding and Liquidity - Royal Bank of Canada (JUN 2012 to MAR 2023)
 
-- Active balance sheet management via FX forwards, interest rate swaps, reverse repo, deposits and CD & EMTM issuance
-- Intra-group funding and transfer-price setting
-- Responsible for the GBP and EUR securities investments across SSAs, Covered Bonds and RMBS for the global High Quality Liquid Asset (HQLA) Portfolio
-- In-depth credit analysis of issuers, covered bond pools and RMBS collateral
-- Building analytical tools in Excel/VBA for efficient risk management, relative value and P&L monitoring
+Analytics & Coding: developed Excel/VBA tools for risk management, relative value, and P&L monitoring. Bolstered portfolio management efficiency and accuracy, facilitating well-informed investment strategies.
+
+Flexibility & Adaptability: Active balance sheet management using a wide range of financial instruments such as FX forwards, swaps, reverse repo, deposits, and CD & EMTM issuance, enhancing balance sheet stability.
+
+Collaboration & Teamwork: Involved in intra-group funding and transfer-price setting, optimising funding allocation and resource usage across departments.
+
+Attention to Detail: Managed GBP and EUR securities investments in SSAs, Covered Bonds, and RMBS. Conducted meticulous credit analysis to ensure portfolio compliance and informed investment decisions. Safeguarded the High-Quality Liquid Asset (HQLA) Portfolio's integrity whilst optimising performance.
 
 ## Skills
 
