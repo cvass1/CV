@@ -1,6 +1,6 @@
 ## Caroline Evans (Vassallo)
 
-A junior software developer with a strong passion for solving problems with efficient and elegant code. Ten years of experience in the financial services industry, skilled in delivering on targets in a fast-paced, high-pressure environment. Recently completed the Makers Academy bootcamp, acquiring essential coding practices such as Test-Driven Development, version control, and Agile workflow.
+A junior software developer with a passion for solving problems with efficient and elegant code. Ten years of experience in the financial services industry, skilled in delivering on targets in a fast-paced, high-pressure environment. Currently transitioning into tech to pursue a deep interest for coding and leverage strong analytical skills. Recently completed the Makers Academy bootcamp, acquiring essential coding practices such as Test-Driven Development, version control, and Agile workflow.
 
 ## Projects
 
@@ -8,48 +8,29 @@ A junior software developer with a strong passion for solving problems with effi
 | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
 | [**Whatever the Weather**](https://github.com/lplclaremont/ep3-raining-mern) | A holiday itinerary web application that generates activity recommendations based on a live daily weather forecast using OpenWeather API              | Express, React, Node, NodeMailer                          |
 | [**Acebook**](https://github.com/ev-th/acebook-fire)                         | A social media site based on Facebook. Features include login authentication using JWT tokens, commenting and liking posts, uploading profile photos. | MERN stack (MongoDB, Express, React, Node), Jest, Cypress |
-| [**RuBnB**](https://github.com/michael-szczepanski/ruBnB)                    | A holiday lets platform based on AirBnB with features including password encryption, space listing and booking management                             | Ruby, Sinatra, SQL, RSpec, HTML & CSS                     |
+| [**RuBnB**](https://github.com/michael-szczepanski/ruBnB)                    | A holiday lets platform based on AirBnB with features including password encryption, space listing and booking management                             | Ruby, Sinatra, PostgreSQL, RSpec, HTML & CSS              |
 
 ## Education
 
-#### Makers Academy (MAR 2023 to JUL 2023)
+#### Software Development Intensive Course - Makers Academy (MAR 2023 to JUL 2023)
 
-- Highly selective, 16 week, full-time Software Development course
-- Developed full-stack applications using a wide range of technologies and frameworks and demonstrated proficiency in OOP, version control and TDD
-- Collaborated effectively in team environments to deliver projects using agile methodologies incorporating stand-ups, planning sessions, sprints, pair-programming and retrospectives to enhance teamwork and clear communication
+Engaged in an intensive and highly selective 16-week full-time software development course at Makers Academy, renowned for its rigorous, industry-focused curriculum and emphasis on Emotional Intelligence (EQ) development in a technical environment. Developed full-stack applications using a comprehensive array of technologies and frameworks, including JavaScript, Express, React, Node, MongoDB, Jest, Cypress, Ruby, Sinatra, PostgreSQL, and RSpec and demonstrated proficiency in Object-Oriented Programming (OOP), Test-Driven Development (TDD) and version control using GIT and GITHUB. Collaborated effectively in team environments to deliver projects using agile methodologies incorporating stand-ups, planning sessions, sprints, pair-programming and retrospectives to enhance teamwork and clear communication.
 
-#### Code First Girls (MAY 2022 to MAR 2023)
+#### Coding Kickstarter and MOOC Courses - Code First Girls (MAY 2022 to MAR 2023)
 
-- SQL & Data - 8 week beginner kickstarter
-- Python & Apps - 8 week beginner kickstarter
-- Intro to Web Development - 4 week MOOC
-- Intro to Machine Learning using Python and Jupyter notebook - 4 week MOOC
-- Intro to GIT and GITHUB - 4 week MOOC
+Completed a series of intensive part-time coding courses offered by Code First Girls, a leading organisation promoting gender diversity in technology, focusing on SQL, Python, Web Development, Machine Learning, Jupyter, GIT and GITHUB.
 
-#### CFA Institute (DEC 2013 to JUN 2015)
+#### Charted Financial Analyst (CFA) Program - CFA Institute (DEC 2013 to JUN 2015)
 
-- Passed all three levels of the Charted Financial Analyst (CFA) Program, a rigorous and comprehensive study program in the investment management and research industry
+Passed all three levels of the CFA Program, a rigorous and comprehensive study program in the investment management and research industry.
 
-#### University of Bristol (OCT 2008 to JUL 2012)
+#### MSci Physics with First Class Honours - University of Bristol (OCT 2008 to JUL 2012)
 
-- MSci Physics with First Class Honours
-- Final year masters thesis on Muon Scattering Tomography involved programming simulations of a real-world experimental set-up using C++ and GEANT4 software toolkit
-- Received the Dean’s Letter of Commendation for Academic Performance in 2010 and 2011
-
-#### Wilmington Grammar School for Girls (SEP 2001 to JUN 2008)
-
-- A levels: Mathematics (A), Physics (A), Biology (A), Chemistry (B)
-- GCSE levels: 10 GCSE’s (5 A\* grades, 5 A grades)
-- Awards for academic performance:
-  - A2 level Mathematics Prize and A2 level Physics Prize, 2008
-  - The Wellcome Mendelson Prize (achievement in A level Science), 2008
-  - AS level Mathematics Prize and AS level Physics Prize, 2007
-  - GCSE Mathematics Prize and GCSE Science Prize, 2006
+Final year masters thesis on Muon Scattering Tomography involved programming simulations of a real-world experimental set-up using C++ and GEANT4 software toolkit. Received the Dean’s Letter of Commendation for Academic Performance in 2010 and 2011.
 
 ## Work Experience
 
-**Royal Bank of Canada** (JUN 2012 to MAR 2023)  
-_Associate Director - Funding and Liquidity Management_
+#### Associate Director, Funding and Liquidity - Royal Bank of Canada (JUN 2012 to MAR 2023)
 
 - Active balance sheet management via FX forwards, interest rate swaps, reverse repo, deposits and CD & EMTM issuance
 - Intra-group funding and transfer-price setting
