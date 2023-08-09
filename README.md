@@ -1,6 +1,6 @@
 ## Caroline Evans (Vassallo)
 
-A junior software developer with a passion for solving problems with efficient and elegant code. Ten years of experience in the financial services industry, skilled in delivering on targets in a fast-paced, high-pressure environment. Currently transitioning into tech to pursue a deep interest for coding and leverage strong analytical skills. Recently completed the Makers Academy bootcamp, acquiring essential coding practices such as Test-Driven Development, version control, and Agile workflow.
+A junior software developer with a passion for solving problems with efficient and elegant code. Ten years of experience in the financial services industry, skilled in delivering on targets in a fast-paced, high-pressure environment. Currently transitioning into the technology sector, driven by an enthusiasm for building tools and programs that enhance operational efficiencies. Recently completed the Makers Academy bootcamp, acquiring essential coding practices such as Test-Driven Development, version control, and Agile workflow.
 
 ## Projects
 
