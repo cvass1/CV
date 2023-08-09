@@ -20,7 +20,7 @@ A junior software developer with a passion for solving problems with efficient a
 
 #### Coding Kickstarter and MOOC Courses - Code First Girls (MAY 2022 to MAR 2023)
 
-- Completed a series of intensive part-time coding courses offered by Code First Girls, a leading organisation promoting gender diversity in technology.
+- Completed a series of part-time coding courses offered by Code First Girls, a leading organisation promoting gender diversity in technology.
 - Focused on SQL, Python, Web Development, Machine Learning, Jupyter, GIT and GITHUB.
 
 #### Charted Financial Analyst (CFA) Program - CFA Institute (DEC 2013 to JUN 2015)
